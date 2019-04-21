@@ -1,10 +1,15 @@
-class romanToInt {
+/**
+*  other： 刘毅豪 
+*  github: https://github.com/yihaoliu
+*  blog:   http://yihaoliu.github.io
+*/
+class reverse {
     constructor(x){
         this.x = x;
        
     }
     render(){
-        let s = this.x;
+        let x = this.x;
         var str = '';
         if(x<0){
             str = ''+Math.abs(x);
@@ -23,4 +28,4 @@ class romanToInt {
     }
 }
 
-export default romanToInt;
+export default reverse;

@@ -1,3 +1,8 @@
+/**
+*  other： 刘毅豪 
+*  github: https://github.com/yihaoliu
+*  blog:   http://yihaoliu.github.io
+*/
 class isPalindrome {
     constructor(x){
         this.x = x;
